@@ -13,7 +13,7 @@ O seu objetivo foi apoiar a tomdade de decisão do Senhor João sobre qual das s
 * Observar a média de avaliação de cada loja;
 * Localizar e visualizar os produtos mais e menos vendidos em cada loja;
 * Calcular o frete médio por loja.
-* Com base nesses procedimentos e na análise dos achados, pretendeu-se fornecer uma recomendação que apoie a decisão do Senhor João sobre qual loja deve vender.
+* Com base nesses procedimentos e na análise dos achados, foi possível fornecer uma recomendação para apoiar a decisão do Senhor João sobre qual loja deve vender.
 
 # Ferramentas usadas
 
